@@ -1,2 +1,2 @@
-# my-first-repo
+# My-first-repo
 A repository for learning Github.
