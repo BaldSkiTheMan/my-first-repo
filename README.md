@@ -1,7 +1,6 @@
 # My-first-repo
 
 A repository for learning GitHub.
-
 <image-card alt="Profile Picture" src="chicago-bears-23-led-slogan-round-wall-sign_ss5_p-200822869+pv-2+u-migwbqhxi0vdymgpn6tm+v-iiauvhgewx1cdbtwgx5e.jpg-2.webp" ></image-card>
 ## About Me
 Hi! I'm Cesar, a Computer Science student at Blue Ridge Community College. 
