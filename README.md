@@ -22,4 +22,4 @@ I'm passionate about technology and always looking to learn new things.
 
 ## Contact
 
-Feel free to reach out if you want to collaborate or just talk tech!!
+Feel free to reach out if you want to collaborate or just talk tech!
