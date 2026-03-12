@@ -1,7 +1,8 @@
 # My-first-repo
 
 A repository for learning GitHub.
-<image-card alt="Profile Picture" src="chicago-bears-23-led-slogan-round-wall-sign_ss5_p-200822869+pv-2+u-migwbqhxi0vdymgpn6tm+v-iiauvhgewx1cdbtwgx5e.jpg-2.webp" ></image-card>
+[
+](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.nflshop.com%2Fchicago-bears%2Fchicago-bears-23-led-slogan-round-wall-sign%2Ft-25157958%2Bp-465533647924076%2Bz-9-1775919117&ved=0CBYQjRxqFwoTCKim26WkmZMDFQAAAAAdAAAAABAf&opi=89978449)<img width="1018" height="1018" alt="image" src="https://github.com/user-attachments/assets/851f8889-a371-4a13-bad1-4516144d8b9b" />
 ## About Me
 Hi! I'm Cesar, a Computer Science student at Blue Ridge Community College. 
 I'm passionate about technology and always looking to learn new things.
